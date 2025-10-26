@@ -11,7 +11,7 @@ It bundles a graphical set of maintenance, recovery, and deployment utilities an
 
 Prebuilt x64 image and additional files:
 
-🔗 **Mega.nz:** [https://mega.nz/folder/2A9QXTwR#thFzHUEYrMwsybk1rN4-QQ]
+🔗 **[Download from Mega NZ](https://mega.nz/folder/SAtUyaqa#4dUYFvOpkFklzrbWzWLDgg)**
 
 > The upload includes:
 > - A prebuilt x64 TPE image
