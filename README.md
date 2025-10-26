@@ -11,7 +11,7 @@ It bundles a graphical set of maintenance, recovery, and deployment utilities an
 
 Prebuilt x64 image and additional files:
 
-🔗 **Mega.nz:** https://mega.nz/folder/2A9QXTwR#thFzHUEYrMwsybk1rN4-QQ
+🔗 **Mega.nz:** [https://mega.nz/folder/2A9QXTwR#thFzHUEYrMwsybk1rN4-QQ]
 
 > The upload includes:
 > - A prebuilt x64 TPE image
@@ -110,7 +110,7 @@ Prebuilt binaries are provided via the external Mega link — users are responsi
 ## 👤 Author / Maintainer
 
 - **Author:** [Timothy Y]  
-- **Repository:** [https://github.com/yourusername/your-repo-name](https://github.com/Timothy099qw/WinPE_x64/)  
+- **Repository:** [https://github.com/Timothy099qw/WinPE_x64/]  
 - **Version:** 0.1.2
 
 ---
